@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 const Home = () => {
     return (
         <div>
-            <h1>THis is Home</h1>
+           <h1>This Is Header Area</h1>
         </div>
     );
 };
